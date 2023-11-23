@@ -19,7 +19,7 @@ import com.google.android.gms.ads.LoadAdError;
 public class Main extends Activity {
 
     Button button01;
-    // Добавьте переменную для интерстициальной рекламы:
+    // Добавьте переменную для Interstitial Ads рекламы:
     private InterstitialAd mInterstitialAd;
 
     @Override
