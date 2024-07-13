@@ -23,6 +23,7 @@ public class Main extends Activity {
     // Добавьте переменную для Interstitial Ads рекламы: as
     private InterstitialAd mInterstitialAd;
 
+    private int test;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
